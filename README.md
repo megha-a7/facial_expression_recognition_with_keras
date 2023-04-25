@@ -9,6 +9,8 @@ The project can be braodly divided into two parts -
 Build and train a model in Keras for Facial Expression Recognition.
 Deploy the model on web using FLASK and run it on videos.
 
+To run the application, run all the files successfully then run python main.py file (click the localhost link to view the results)
+
 ## Features
 - Explore the Dataset
 - Generate Training and Validation Batches

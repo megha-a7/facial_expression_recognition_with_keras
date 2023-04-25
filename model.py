@@ -1,6 +1,6 @@
-from tensorflow.keras.models import model_from_json
+from keras.models import model_from_json
+#from keras.models import Model, Sequential
 import numpy as np
-
 import tensorflow as tf
 
 config = tf.compat.v1.ConfigProto()

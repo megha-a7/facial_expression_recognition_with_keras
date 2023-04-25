@@ -8,7 +8,7 @@ font = cv2.FONT_HERSHEY_SIMPLEX
 
 class VideoCamera(object):
     def __init__(self):
-        self.video = cv2.VideoCapture(r"C:\Users\Dexter\Desktop\Facial recognition\Archive-32ba\Project\Project\videos\wife.mp4")
+        self.video = cv2.VideoCapture(r"C:\Users\VICTUS\Documents\distance_coding\facial expression\facial_expression_recognition_with_keras\From Didigiri to Sloganbazi_ The Many Shades of Mighty Mamata Banerjee _ The Quint.mp4")
         #"/home/rhyme/Desktop/Project/videos/facial_exp.mkv" = 0 for camera input
         #stackoverflow.com/questions/37400974/unicode-error-unicodeescape-codec-cant-decode-bytes-in-position-2-3-trunca
 
